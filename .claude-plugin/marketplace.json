@@ -1,0 +1,14 @@
+{
+  "name": "martellcode",
+  "owner": {
+    "name": "martellcode"
+  },
+  "plugins": [
+    {
+      "name": "coca",
+      "source": "./plugins/coca",
+      "description": "COCA Framework - Build perfect specs for spec-driven development",
+      "version": "1.0.0"
+    }
+  ]
+}
